@@ -13,7 +13,7 @@ I am a Freshman CS Major at Alabama A&M University.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spent 2 years of my life learning a combination of "pointless" skills that save my life daily today :)
 
-##CONTACT
+## CONTACT
 
 LinkedIn - www.linkedin.com/in/mitchel-onyebuchi-cs
 
