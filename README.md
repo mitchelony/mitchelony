@@ -24,12 +24,12 @@ I am a **Computer Science freshman** at **Alabama A&M University** from **Nigeri
 ### **Number Guessing Game**  
 A Python-based interactive game where users guess a secret number, with feedback provided after each guess.  
 - **Key Skills**: Input handling, logic implementation, and user feedback integration.  
-- [View Project](https://github.com/mitchelony/Python-Beginner-Projects)
+- [View Project](https://github.com/mitchelony/Python-Beginner-Projects/tree/main/Number%20Guessing%20Game)
 
 ### **Wordle**  
 A Python recreation of the popular Wordle game, featuring dynamic interaction.  
 - **Key Skills**: String manipulation, loops, and game logic implementation.  
-- [View Project](#)
+- [View Project](https://github.com/mitchelony/Python-Beginner-Projects/tree/main/Wordle)
 
 ---
 
