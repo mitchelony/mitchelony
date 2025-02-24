@@ -21,6 +21,28 @@ I am a **Computer Science freshman** at **Alabama A&M University** from **Nigeri
 
 ## 🎯 Featured Projects  
 
+### **Smart Expense Tracker**  
+A full-featured Flask-based web application designed to help users track and manage their expenses seamlessly. The system provides CRUD (Create, Read, Update, Delete) functionality, ensuring users can log transactions, categorize expenses, and analyze their spending patterns. This project incorporates robust error handling, database management, and a user-friendly API for financial tracking.  
+
+#### **Core Features:**  
+- **Expense Management**: Users can add expenses with details such as amount, category, date, description, payment method, merchant, and recurrence status.  
+- **Expense Retrieval**: Fetch all recorded expenses or query specific transactions based on unique IDs.  
+- **Expense Updating**: Modify existing expense records with updated values while maintaining data integrity.  
+- **Expense Deletion**: Securely remove expenses from the database when no longer needed.  
+- **Data Validation & Error Handling**: Ensures proper input formatting, valid date structures, and non-negative expense values to maintain system reliability.  
+- **RESTful API Implementation**: Designed for smooth integration with frontend interfaces or mobile applications.  
+
+#### **Tech Stack & Skills Demonstrated:**  
+- **Flask (Python)** – Backend development, API routing, and request handling.  
+- **SQLite** – Persistent data storage with structured query management.  
+- **JSON Processing** – Enables structured data exchange between frontend and backend.  
+- **Postman API Testing** – Validates API responses for all request types.  
+- **Error Handling & Input Validation** – Enhances security and reliability by managing user input errors effectively.  
+
+This project demonstrates proficiency in backend API development, database interactions, and data validation while offering a practical solution for financial tracking. It serves as an excellent foundation for more advanced financial applications incorporating analytics, budgeting, and visualization features.  
+
+🚀 **[View Project](https://github.com/mitchelony/Smart-Expense-Tracker)**
+## 🚀 OTHER PROJECTS
 ### **Number Guessing Game**  
 A Python-based interactive game where users guess a secret number, with feedback provided after each guess.  
 - **Key Skills**: Input handling, logic implementation, and user feedback integration.  
