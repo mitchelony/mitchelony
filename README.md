@@ -53,6 +53,8 @@ A Python recreation of the popular Wordle game, featuring dynamic interaction.
 
 ---
 
+<img src="https://myreadme.vercel.app/api/embed/mitchelony?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 ## 🌐 Community Involvement  
 - **AAMU Merit Scholar**: Acknowledged for academic achievements and leadership potential.  
 - **Honors Program Class of 2024**: Focused on fostering leadership skills and community service.  
