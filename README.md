@@ -7,14 +7,11 @@ I am a **Computer Science freshman** at **Alabama A&M University** from **Nigeri
 ## 🌟 About Me  
 - 🔭 **Current Focus**: Building an **AI-Powered Business Consultant** tailored for small business owners.  
 - 🌱 **Learning**: Python, Swift, HTML/CSS, JavaScript, and exploring C++ this semester.  
-- 👯 **Collaborations**: Open to collaborating on **AI projects** and **research initiatives**.  
-- 💬 **Let’s Discuss**: College life, international student experiences, graphic design, or managing life with ADHD.  
-- ⚡ **Fun Fact**: I dedicated two years to mastering “pointless” skills that have since become surprisingly practical in my day-to-day life!  
-
----
+- 👯 **Collaborations**: Open to collaborating on **AI projects** and **research initiatives**.
+- ---
 
 ## 🛠 Skills & Tools  
-- **Programming Languages**: Python, Swift (Beginner), HTML/CSS, JavaScript (Beginner), C++ (Exploring)  
+- **Programming Languages**: Python(Intermediate), Swift (Beginner), HTML/CSS(Beginner), JavaScript (Beginner), C++ (Beginner)  
 - **Areas of Interest**: Artificial Intelligence, Software Development, Graphic Design, Leadership  
 
 ---
@@ -22,11 +19,11 @@ I am a **Computer Science freshman** at **Alabama A&M University** from **Nigeri
 ## 🎯 Featured Projects  
 
 ### **Smart Expense Tracker**  
-A full-featured Flask-based web application designed to help users track and manage their expenses seamlessly. The system provides CRUD (Create, Read, Update, Delete) functionality, ensuring users can log transactions, categorize expenses, and analyze their spending patterns. This project incorporates robust error handling, database management, and a user-friendly API for financial tracking.  
+A full-featured Flask-based web application designed to help users track and manage their expenses seamlessly. The system provides CRUD (Create, Read, Update, Delete) functionality, ensuring users can log transactions, categorize expenses, and analyze spending patterns. This project incorporates robust error handling, database management, and a user-friendly API for financial tracking.  
 
 #### **Core Features:**  
 - **Expense Management**: Users can add expenses with details such as amount, category, date, description, payment method, merchant, and recurrence status.  
-- **Expense Retrieval**: Fetch all recorded expenses or query specific transactions based on unique IDs.  
+- **Expense Retrieval**: Fetch all recorded expenses or query-specific transactions based on unique IDs.  
 - **Expense Updating**: Modify existing expense records with updated values while maintaining data integrity.  
 - **Expense Deletion**: Securely remove expenses from the database when no longer needed.  
 - **Data Validation & Error Handling**: Ensures proper input formatting, valid date structures, and non-negative expense values to maintain system reliability.  
@@ -42,6 +39,7 @@ A full-featured Flask-based web application designed to help users track and man
 This project demonstrates proficiency in backend API development, database interactions, and data validation while offering a practical solution for financial tracking. It serves as an excellent foundation for more advanced financial applications incorporating analytics, budgeting, and visualization features.  
 
 🚀 **[View Project](https://github.com/mitchelony/Smart-Expense-Tracker)**
+
 ## 🚀 OTHER PROJECTS
 ### **Number Guessing Game**  
 A Python-based interactive game where users guess a secret number, with feedback provided after each guess.  
@@ -61,14 +59,15 @@ A Python recreation of the popular Wordle game, featuring dynamic interaction.
 - **ColorStack Fellow**: Promoting diversity and inclusion in the tech community.  
 - **Bloomberg Accelerator Bootcamp x SuperCharged**: Intensive program on software development and problem-solving.  
 - **Google Developers Student Club (GDSC)**: Participating in workshops and community-driven tech initiatives.  
-
+- **CodePath TIP102 Scholar**: An Advanced Technical Interview Prep Course
 ---
 
 ## 🏀 Outside of Coding  
 When I’m not coding, I enjoy:  
 - **Basketball**: Avid player, always up for a game of hoops.  
 - **Graphic Design**: Exploring creativity through digital design.  
-- **Continuous Learning**: Always seeking new knowledge and skills.  
+- **Continuous Learning**: Always seeking new knowledge and skills.
+- **Anime & Manga**: I think Gojo is the G.O.A.T... Fight Me!
 
 ---
 
@@ -82,7 +81,7 @@ When I’m not coding, I enjoy:
 - **LinkedIn**: [Mitchel Onyebuchi](https://www.linkedin.com/in/mitchel-onyebuchi-cs)  
 - **Email**: mitchelonyebuchi@gmail.com  
 
-Feel free to reach out for mentorship, collaboration, or just a casual conversation! 😊  
+Feel free to reach out for, collaboration, or just a casual conversation! 😊  
 
 ---
 
