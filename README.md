@@ -86,5 +86,6 @@ When I’m not coding, I enjoy:
 Feel free to reach out for, collaboration, or just a casual conversation! 😊  
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelony&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 > 💡 *"Innovation arises from the intersection of passion and curiosity."*  
