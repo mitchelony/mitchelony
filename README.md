@@ -2,7 +2,6 @@
 
 I am a **Computer Science freshman** at **Alabama A&M University** from **Nigeria**, with a deep passion for **Artificial Intelligence** and its potential to reshape industries.  
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=mitchelony&theme=react-dark&hide_border=true&area=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitchelony&theme=tokyonight" alt="mystreak"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelony&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
