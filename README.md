@@ -2,6 +2,9 @@
 
 I am a **Computer Science freshman** at **Alabama A&M University** from **Nigeria**, with a deep passion for **Artificial Intelligence** and its potential to reshape industries.  
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mitchelony&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelony&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ---
 
 ## 🌟 About Me  
@@ -86,6 +89,4 @@ When I’m not coding, I enjoy:
 Feel free to reach out for, collaboration, or just a casual conversation! 😊  
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelony&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 > 💡 *"Innovation arises from the intersection of passion and curiosity."*  
